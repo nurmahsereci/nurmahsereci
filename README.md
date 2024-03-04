@@ -4,10 +4,10 @@
   - 👀 I’m looking an internship or working student position. I have quick learning skills and high motivation to success!
   - 📫 Here is my linkedin profile: https://www.linkedin.com/in/nurmahsereci/
   - My knowledge:
-    Java,
-    Python,
-    SQL,
-    HTML,
-    CSS,
-    JavaScript,
-    Python
+    * Java
+    * Python
+    * SQL
+    * JavaScript
+    * HTML
+    * CSS
+
