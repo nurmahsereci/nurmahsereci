@@ -8,4 +8,5 @@
     SQL,
     HTML,
     CSS,
-    JavaScript
+    JavaScript,
+    Python
